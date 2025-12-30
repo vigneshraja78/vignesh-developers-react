@@ -36,7 +36,7 @@ const HeroSlider = () => {
                 Residential | Commercial | Industrial Construction
               </p>
               <a href="/projects" className="text-decoration-none">
-                <button className="button-bg fs-5">View Projects</button>
+                <button className="button-bg fs-6 border-0">View Projects</button>
               </a>
             </div>
           </div>
@@ -51,7 +51,7 @@ const HeroSlider = () => {
                 Residential | Commercial | Industrial Construction
               </p>
               <a href="/projects" className="text-decoration-none">
-                <button className="button-bg fs-5">View Projects</button>
+                <button className="button-bg fs-6 border-0">View Projects</button>
               </a>
             </div>
           </div>
