@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vignesh-developers-react/static/css/main.1db61ea0.css",
-    "main.js": "/vignesh-developers-react/static/js/main.fcfe0e4f.js",
+    "main.js": "/vignesh-developers-react/static/js/main.580ac653.js",
     "static/js/453.f9a5cdc0.chunk.js": "/vignesh-developers-react/static/js/453.f9a5cdc0.chunk.js",
     "static/media/slider-1.jpeg": "/vignesh-developers-react/static/media/slider-1.67bef1959236cd6f311b.jpeg",
     "static/media/cta-bg.jpg": "/vignesh-developers-react/static/media/cta-bg.57a7612aa1c71b689441.jpg",
@@ -20,11 +20,11 @@
     "static/media/footer-bg.png": "/vignesh-developers-react/static/media/footer-bg.a11c885bf8703e50a9f7.png",
     "index.html": "/vignesh-developers-react/index.html",
     "main.1db61ea0.css.map": "/vignesh-developers-react/static/css/main.1db61ea0.css.map",
-    "main.fcfe0e4f.js.map": "/vignesh-developers-react/static/js/main.fcfe0e4f.js.map",
+    "main.580ac653.js.map": "/vignesh-developers-react/static/js/main.580ac653.js.map",
     "453.f9a5cdc0.chunk.js.map": "/vignesh-developers-react/static/js/453.f9a5cdc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1db61ea0.css",
-    "static/js/main.fcfe0e4f.js"
+    "static/js/main.580ac653.js"
   ]
 }
