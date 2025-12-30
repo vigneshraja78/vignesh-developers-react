@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vignesh-developers-react/static/css/main.1db61ea0.css",
+    "main.js": "/vignesh-developers-react/static/js/main.fcfe0e4f.js",
+    "static/js/453.f9a5cdc0.chunk.js": "/vignesh-developers-react/static/js/453.f9a5cdc0.chunk.js",
+    "static/media/slider-1.jpeg": "/vignesh-developers-react/static/media/slider-1.67bef1959236cd6f311b.jpeg",
+    "static/media/cta-bg.jpg": "/vignesh-developers-react/static/media/cta-bg.57a7612aa1c71b689441.jpg",
+    "static/media/slider-2.jpeg": "/vignesh-developers-react/static/media/slider-2.3d3e4b782f28afd95f0c.jpeg",
+    "static/media/about-2.jpg": "/vignesh-developers-react/static/media/about-2.6fe54bd2a4ce93ad147e.jpg",
+    "static/media/about-1.jpg": "/vignesh-developers-react/static/media/about-1.f3d33e06b3fd11606b76.jpg",
+    "static/media/project-2.jpg": "/vignesh-developers-react/static/media/project-2.25f8987d3864d6f999b3.jpg",
+    "static/media/project-5.jpg": "/vignesh-developers-react/static/media/project-5.3af3799a99fd6e960452.jpg",
+    "static/media/project-4.jpg": "/vignesh-developers-react/static/media/project-4.d5d26866f9063206eef0.jpg",
+    "static/media/project-1.jpg": "/vignesh-developers-react/static/media/project-1.032c3389249f9f6d0b74.jpg",
+    "static/media/project-6.jpg": "/vignesh-developers-react/static/media/project-6.719bce25de9d8c1b7819.jpg",
+    "static/media/project-3.jpg": "/vignesh-developers-react/static/media/project-3.59331709a7da80f2aead.jpg",
+    "static/media/bootstrap-icons.woff?": "/vignesh-developers-react/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/vignesh-dev-logo-new.png": "/vignesh-developers-react/static/media/vignesh-dev-logo-new.ecd4d0a733ce531043cb.png",
+    "static/media/bootstrap-icons.woff2?": "/vignesh-developers-react/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/footer-bg.png": "/vignesh-developers-react/static/media/footer-bg.a11c885bf8703e50a9f7.png",
+    "index.html": "/vignesh-developers-react/index.html",
+    "main.1db61ea0.css.map": "/vignesh-developers-react/static/css/main.1db61ea0.css.map",
+    "main.fcfe0e4f.js.map": "/vignesh-developers-react/static/js/main.fcfe0e4f.js.map",
+    "453.f9a5cdc0.chunk.js.map": "/vignesh-developers-react/static/js/453.f9a5cdc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1db61ea0.css",
+    "static/js/main.fcfe0e4f.js"
+  ]
+}
